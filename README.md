@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Header — nombre, divisor, botones sociales y rol traídos de Sanity -->
+<!-- Header — nombre, divisor y rol traídos de Sanity -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -12,6 +12,25 @@
     alt="Juan Vicente Faubel — Data Analyst"
   />
 </picture>
+
+<!-- Botones sociales — <a> en HTML de Markdown sí funciona en GitHub -->
+<a href="https://linkedin.com/in/juanvicentefaubel">
+  <img
+    src="https://juanvifaubel.com/api/github-social-btn?platform=linkedin"
+    width="40"
+    height="40"
+    alt="LinkedIn"
+  />
+</a>
+&nbsp;
+<a href="https://juanvifaubel.com">
+  <img
+    src="https://juanvifaubel.com/api/github-social-btn?platform=web"
+    width="40"
+    height="40"
+    alt="Portfolio"
+  />
+</a>
 
 </div>
 
