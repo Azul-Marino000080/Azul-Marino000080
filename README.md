@@ -28,6 +28,8 @@
 
 ---
 
+### Descripción
+
 Analista de datos orientado a transformar datos complejos en decisiones claras.
 Trabajo con **Python**, **SQL** y **Power BI** para construir pipelines de análisis,
 dashboards interactivos e informes que responden preguntas de negocio reales.
@@ -36,13 +38,17 @@ dashboards interactivos e informes que responden preguntas de negocio reales.
 
 ### Tecnologías
 
-<!-- labelColor=343a40 es neutro: contrasta sobre fondo claro y oscuro sin necesitar <picture> -->
-![Python](https://img.shields.io/badge/Python-69b3a2?style=for-the-badge&logo=python&logoColor=white&labelColor=343a40)
-&nbsp;![SQL](https://img.shields.io/badge/SQL-69b3a2?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=343a40)
-&nbsp;![Power BI](https://img.shields.io/badge/Power_BI-69b3a2?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=343a40)
-&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-69b3a2?style=for-the-badge&logo=javascript&logoColor=white&labelColor=343a40)
-
----
+<!-- Píldoras generadas dinámicamente desde las categorías de Sanity -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://juanvifaubel.com/api/github-badges?theme=dark"
+  />
+  <img
+    src="https://juanvifaubel.com/api/github-badges?theme=light"
+    alt="Tecnologías"
+  />
+</picture>
 
 <div align="center">
 
