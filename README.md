@@ -1,7 +1,11 @@
 <div align="center">
 
-<!-- ── HEADER SVG — fondo #ffffff forzado, réplica del masthead del portfolio -->
-<img src="header.svg" width="800" alt="Juan Vicente Faubel — Data Analyst" />
+<!-- ── HEADER SVG — claro/oscuro según el tema del visitante -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="header.svg">
+  <img src="header.svg" width="800" alt="Juan Vicente Faubel — Data Analyst" />
+</picture>
 
 <br/><br/>
 
@@ -29,17 +33,29 @@ Analista de datos con experiencia en transformar conjuntos de datos en visualiza
 
 <div align="center">
 
-<!-- GitHub Stats — colores del portfolio: blanco, teal, navy -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Azul-Marino000080&show_icons=true&hide_border=false&icon_color=69b3a2&title_color=251667&text_color=212529&bg_color=ffffff&border_color=69b3a2&ring_color=69b3a2&theme_context=light"
-  height="165"
-  alt="GitHub stats"
-/>
+<!-- GitHub Stats — claro/oscuro según el tema del visitante -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Azul-Marino000080&show_icons=true&hide_border=false&icon_color=69b3a2&title_color=69b3a2&text_color=e6edf3&bg_color=0d1117&border_color=30363d&ring_color=69b3a2"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Azul-Marino000080&show_icons=true&hide_border=false&icon_color=69b3a2&title_color=251667&text_color=212529&bg_color=ffffff&border_color=69b3a2&ring_color=69b3a2"
+    height="165"
+    alt="GitHub stats"
+  />
+</picture>
 &nbsp;&nbsp;
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azul-Marino000080&layout=compact&hide_border=false&title_color=251667&text_color=212529&bg_color=ffffff&border_color=69b3a2&langs_count=6&theme_context=light"
-  height="165"
-  alt="Lenguajes más usados"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Azul-Marino000080&layout=compact&hide_border=false&title_color=69b3a2&text_color=e6edf3&bg_color=0d1117&border_color=30363d&langs_count=6"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azul-Marino000080&layout=compact&hide_border=false&title_color=251667&text_color=212529&bg_color=ffffff&border_color=69b3a2&langs_count=6"
+    height="165"
+    alt="Lenguajes más usados"
+  />
+</picture>
 
 </div>
