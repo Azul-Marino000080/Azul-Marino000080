@@ -1,10 +1,16 @@
 <div align="center">
 
-<!-- ── HEADER SVG — claro/oscuro según el tema del visitante -->
+<!-- ── HEADER — capsule-render renderiza la fuente en servidor, sin bloqueos de GitHub -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="header.svg">
-  <img src="header.svg" width="800" alt="Juan Vicente Faubel — Data Analyst" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&text=JUAN%20VICENTE%20FAUBEL&fontSize=36&fontColor=e6edf3&fontAlignY=40&desc=Data%20Analyst&descAlignY=70&descSize=18&descColor=69b3a2&animation=fadeIn"
+  />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=180&text=JUAN%20VICENTE%20FAUBEL&fontSize=36&fontColor=212529&fontAlignY=40&desc=Data%20Analyst&descAlignY=70&descSize=18&descColor=69b3a2&animation=fadeIn"
+    width="100%"
+    alt="Juan Vicente Faubel — Data Analyst"
+  />
 </picture>
 
 <br/><br/>
