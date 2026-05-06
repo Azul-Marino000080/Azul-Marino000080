@@ -21,14 +21,6 @@
 
 ---
 
-### Descripción
-
-Analista de datos orientado a transformar datos complejos en decisiones claras.
-Trabajo con **Python**, **SQL** y **Power BI** para construir pipelines de análisis,
-dashboards interactivos e informes que responden preguntas de negocio reales.
-
----
-
 ### Tecnologías
 
 <!-- Píldoras generadas dinámicamente desde las categorías de Sanity -->
@@ -42,6 +34,14 @@ dashboards interactivos e informes que responden preguntas de negocio reales.
     alt="Tecnologías"
   />
 </picture>
+
+---
+
+### Descripción
+
+Analista de datos orientado a transformar datos complejos en decisiones claras.
+Trabajo con **Python**, **SQL** y **Power BI** para construir pipelines de análisis,
+dashboards interactivos e informes que responden preguntas de negocio reales.
 
 <div align="center">
 
