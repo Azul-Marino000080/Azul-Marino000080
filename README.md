@@ -1,21 +1,19 @@
 <div align="center">
 
-<!-- ── HEADER — capsule-render renderiza la fuente en servidor, sin bloqueos de GitHub -->
+<!-- ── HEADER: waving — la ola teal actúa de separador visual, sin barra explícita -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&text=JUAN%20VICENTE%20FAUBEL&fontSize=36&fontColor=e6edf3&fontAlignY=40&desc=Data%20Analyst&descAlignY=70&descSize=18&descColor=69b3a2&animation=fadeIn"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=69b3a2&height=200&section=header&text=JUAN%20VICENTE%20FAUBEL&fontSize=34&fontColor=e6edf3&fontAlignY=38&desc=Data%20Analyst&descAlignY=58&descSize=18&descColor=b2d8d0"
   />
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=180&text=JUAN%20VICENTE%20FAUBEL&fontSize=36&fontColor=212529&fontAlignY=40&desc=Data%20Analyst&descAlignY=70&descSize=18&descColor=69b3a2&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=69b3a2&height=200&section=header&text=JUAN%20VICENTE%20FAUBEL&fontSize=34&fontColor=212529&fontAlignY=38&desc=Data%20Analyst&descAlignY=58&descSize=18&descColor=251667"
     width="100%"
     alt="Juan Vicente Faubel — Data Analyst"
   />
 </picture>
 
-<br/><br/>
-
-<!-- ── REDES SOCIALES ── badges teal/navy — réplica de los botones circulares del portfolio -->
+<!-- ── REDES SOCIALES ── -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Vicente_Faubel-69b3a2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/REEMPLAZA_CON_TU_USUARIO)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-juanvifaubel.com-251667?style=flat-square&logo=vercel&logoColor=white)](https://juanvifaubel.com)
