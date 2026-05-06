@@ -1,19 +1,25 @@
 <div align="center">
 
-<!-- ── HEADER: waving — la ola teal actúa de separador visual, sin barra explícita -->
+<!-- Nombre: fondo transparente, color adaptado al tema -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=69b3a2&height=200&section=header&text=JUAN%20VICENTE%20FAUBEL&fontSize=34&fontColor=e6edf3&fontAlignY=38&desc=Data%20Analyst&descAlignY=58&descSize=18&descColor=b2d8d0"
+    srcset="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=38&duration=1&pause=99999&repeat=false&color=e6edf3&center=true&vCenter=true&width=700&height=70&lines=JUAN+VICENTE+FAUBEL"
   />
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=69b3a2&height=200&section=header&text=JUAN%20VICENTE%20FAUBEL&fontSize=34&fontColor=212529&fontAlignY=38&desc=Data%20Analyst&descAlignY=58&descSize=18&descColor=251667"
-    width="100%"
-    alt="Juan Vicente Faubel — Data Analyst"
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=38&duration=1&pause=99999&repeat=false&color=212529&center=true&vCenter=true&width=700&height=70&lines=JUAN+VICENTE+FAUBEL"
+    alt="Juan Vicente Faubel"
   />
 </picture>
 
-<!-- ── REDES SOCIALES ── -->
+<!-- Rol: teal funciona igual sobre blanco y sobre oscuro -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=400&size=18&duration=1&pause=99999&repeat=false&color=69b3a2&center=true&vCenter=true&width=300&height=38&lines=Data+Analyst"
+  alt="Data Analyst"
+/>
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Vicente_Faubel-69b3a2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/REEMPLAZA_CON_TU_USUARIO)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-juanvifaubel.com-251667?style=flat-square&logo=vercel&logoColor=white)](https://juanvifaubel.com)
