@@ -1,24 +1,17 @@
 <div align="center">
 
-<!-- Nombre: fondo transparente, color adaptado al tema -->
+<!-- Header — nombre y rol traídos de Sanity, replica el masthead del portfolio -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=38&duration=1&pause=99999&repeat=false&color=e6edf3&center=true&vCenter=true&width=700&height=70&lines=JUAN+VICENTE+FAUBEL"
+    srcset="https://juanvifaubel.com/api/github-header?theme=dark"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=38&duration=1&pause=99999&repeat=false&color=212529&center=true&vCenter=true&width=700&height=70&lines=JUAN+VICENTE+FAUBEL"
-    alt="Juan Vicente Faubel"
+    src="https://juanvifaubel.com/api/github-header?theme=light"
+    width="800"
+    alt="Juan Vicente Faubel — Data Analyst"
   />
 </picture>
-
-<!-- Rol: teal funciona igual sobre blanco y sobre oscuro -->
-<img
-  src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=400&size=18&duration=1&pause=99999&repeat=false&color=69b3a2&center=true&vCenter=true&width=300&height=38&lines=Data+Analyst"
-  alt="Data Analyst"
-/>
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Vicente_Faubel-69b3a2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/REEMPLAZA_CON_TU_USUARIO)
 &nbsp;
