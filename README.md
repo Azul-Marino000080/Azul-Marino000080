@@ -13,24 +13,11 @@
   />
 </picture>
 
-<!-- Botones sociales — <a> en HTML de Markdown sí funciona en GitHub -->
-<a href="https://linkedin.com/in/juanvicentefaubel">
-  <img
-    src="https://juanvifaubel.com/api/github-social-btn?platform=linkedin"
-    width="40"
-    height="40"
-    alt="LinkedIn"
-  />
-</a>
-&nbsp;
-<a href="https://juanvifaubel.com">
-  <img
-    src="https://juanvifaubel.com/api/github-social-btn?platform=web"
-    width="40"
-    height="40"
-    alt="Portfolio"
-  />
-</a>
+<!-- Botones sociales — tabla de una fila para forzar disposición horizontal -->
+<table><tr>
+  <td><a href="https://linkedin.com/in/juanvicentefaubel"><img src="https://juanvifaubel.com/api/github-social-btn?platform=linkedin" width="40" height="40" alt="LinkedIn"/></a></td>
+  <td><a href="https://juanvifaubel.com"><img src="https://juanvifaubel.com/api/github-social-btn?platform=web" width="40" height="40" alt="Portfolio"/></a></td>
+</tr></table>
 
 </div>
 
