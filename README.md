@@ -28,16 +28,19 @@
 
 ---
 
-Analista de datos con experiencia en transformar conjuntos de datos en visualizaciones e informes que apoyan la toma de decisiones. Me especializo en análisis exploratorio, modelado de datos y comunicación clara de resultados.
+Analista de datos orientado a transformar datos complejos en decisiones claras.
+Trabajo con **Python**, **SQL** y **Power BI** para construir pipelines de análisis,
+dashboards interactivos e informes que responden preguntas de negocio reales.
 
 ---
 
 ### Tecnologías
 
-![Python](https://img.shields.io/badge/Python-69b3a2?style=flat-square&logo=python&logoColor=white)
-&nbsp;![SQL](https://img.shields.io/badge/SQL-69b3a2?style=flat-square&logo=postgresql&logoColor=white)
-&nbsp;![Power BI](https://img.shields.io/badge/Power_BI-69b3a2?style=flat-square&logo=powerbi&logoColor=white)
-&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-69b3a2?style=flat-square&logo=javascript&logoColor=white)
+<!-- labelColor=343a40 es neutro: contrasta sobre fondo claro y oscuro sin necesitar <picture> -->
+![Python](https://img.shields.io/badge/Python-69b3a2?style=for-the-badge&logo=python&logoColor=white&labelColor=343a40)
+&nbsp;![SQL](https://img.shields.io/badge/SQL-69b3a2?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=343a40)
+&nbsp;![Power BI](https://img.shields.io/badge/Power_BI-69b3a2?style=for-the-badge&logo=microsoftpowerbi&logoColor=white&labelColor=343a40)
+&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-69b3a2?style=for-the-badge&logo=javascript&logoColor=white&labelColor=343a40)
 
 ---
 
