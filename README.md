@@ -13,11 +13,8 @@
   />
 </picture>
 
-<!-- Botones sociales — tabla de una fila para forzar disposición horizontal -->
-<table border=none><tr>
-  <td><a href="https://linkedin.com/in/juanvicentefaubel"><img src="https://juanvifaubel.com/api/github-social-btn?platform=linkedin" width="40" height="40" alt="LinkedIn"/></a></td>
-  <td><a href="https://juanvifaubel.com"><img src="https://juanvifaubel.com/api/github-social-btn?platform=web" width="40" height="40" alt="Portfolio"/></a></td>
-</tr></table>
+<!-- Botones sociales — Markdown inline, sin bordes ni contenedores -->
+[![LinkedIn](https://juanvifaubel.com/api/github-social-btn?platform=linkedin)](https://linkedin.com/in/juanvicentefaubel) [![Portfolio](https://juanvifaubel.com/api/github-social-btn?platform=web)](https://juanvifaubel.com)
 
 </div>
 
