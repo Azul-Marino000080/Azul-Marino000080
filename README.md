@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Header — nombre y rol traídos de Sanity, replica el masthead del portfolio -->
+<!-- Header — nombre, divisor, botones sociales y rol traídos de Sanity -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -12,10 +12,6 @@
     alt="Juan Vicente Faubel — Data Analyst"
   />
 </picture>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Vicente_Faubel-69b3a2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/REEMPLAZA_CON_TU_USUARIO)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-juanvifaubel.com-251667?style=flat-square&logo=vercel&logoColor=white)](https://juanvifaubel.com)
 
 </div>
 
