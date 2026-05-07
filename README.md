@@ -14,7 +14,7 @@
 </picture>
 
 <!-- Botones sociales — Markdown inline, sin bordes ni contenedores -->
-[![LinkedIn](https://juanvifaubel.com/api/github-social-btn?platform=linkedin)](https://linkedin.com/in/juanvicentefaubel) [![Portfolio](https://juanvifaubel.com/api/github-social-btn?platform=web)](https://juanvifaubel.com)
+[![LinkedIn](https://juanvifaubel.com/api/github-social-btn?platform=linkedin)](https://www.linkedin.com/in/juanvifaubel/)    [![Portfolio](https://juanvifaubel.com/api/github-social-btn?platform=web)](https://juanvifaubel.com)
 
 </div>
 
